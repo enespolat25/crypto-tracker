@@ -4,6 +4,8 @@
 
 [Kaynak Makale](https://dev.to/rowlinsonmike/cryptotracker-in-70-lines-of-code-4jh9)
 
+![](./demo.gif)
+
 
 # Getting Started with Create React App
 
