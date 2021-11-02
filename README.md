@@ -1,3 +1,10 @@
+# Kripto Borsa Takip Uygulaması
+
+[Demo Sayfa](https://crypto-tracker-enespolat.surge.sh/)
+
+[Kaynak Makale](https://dev.to/rowlinsonmike/cryptotracker-in-70-lines-of-code-4jh9)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
